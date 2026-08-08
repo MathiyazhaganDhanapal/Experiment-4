@@ -13,13 +13,21 @@ Instead of using ThingSpeak, this experiment simulates real-time sensor data usi
  
  ## PROCEDURE
 🔹 Step 1: Initialize System Parameters
+
 •	Define simulation duration and sensor data range.
+
 •	Simulate voltage and current variations in an EV.
+
 🔹 Step 2: Compute Power and Energy Usage
+
 •	Compute power consumption at each time step.
+
 •	Integrate power over time to calculate total energy consumption.
+
 🔹 Step 3: Analyze and Plot Data
+
 •	Calculate efficiency based on battery capacity.
+
 •	Plot graphs for power and energy consumption trends.
  
 ## MATLAB CODE (WITHOUT THINGSPEAK)
